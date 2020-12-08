@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "701925772951",
+    "firebase_url": "https://quickstart-1566884043023.firebaseio.com",
+    "project_id": "quickstart-1566884043023",
+    "storage_bucket": "quickstart-1566884043023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701925772951:android:7edc54de80d5b0a72723d2",
+        "android_client_info": {
+          "package_name": "com.agencyfish.anantara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701925772951-eriuh5guluffhke3uhouimlop6i6koqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agencyfish.anantara",
+            "certificate_hash": "184d76a4a80e3f6c6072cff36e242d37c8866d4e"
+          }
+        },
+        {
+          "client_id": "701925772951-jnebbln9rj8jhoi4bg55nt0uo37ojpr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agencyfish.anantara",
+            "certificate_hash": "71786b5c6765f0d6d7880de44285d5a33d9143ec"
+          }
+        },
+        {
+          "client_id": "701925772951-f5k6ehq7fabgmlh4g5q84v7vna6adfmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agencyfish.anantara",
+            "certificate_hash": "4603f5cbdb737ce7078bf869222bcedec733e52a"
+          }
+        },
+        {
+          "client_id": "701925772951-9f3f6e7btnfspeji2muu646ttoojc5t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agencyfish.anantara",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hKFpEwccRk5Cr7aDp5iIZbi0duadH3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701925772951-eg5i1pq0ttk8tjsp9q61ebrocvpc1vdo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701925772951-97oim9gq4gq41ebffd70f98vhil3a2tt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agencyfish.anantara"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701925772951:android:69d403fcdb657f852723d2",
+        "android_client_info": {
+          "package_name": "com.agencyfish.versoview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701925772951-3p7v6e4krlldfln4drt6f46armg4o8ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agencyfish.versoview",
+            "certificate_hash": "184d76a4a80e3f6c6072cff36e242d37c8866d4e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hKFpEwccRk5Cr7aDp5iIZbi0duadH3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701925772951-eg5i1pq0ttk8tjsp9q61ebrocvpc1vdo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701925772951-97oim9gq4gq41ebffd70f98vhil3a2tt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agencyfish.anantara"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701925772951:android:0d0bb3e1c197b2eb2723d2",
+        "android_client_info": {
+          "package_name": "com.colours.agencyfish.mycolours"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hKFpEwccRk5Cr7aDp5iIZbi0duadH3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701925772951-eg5i1pq0ttk8tjsp9q61ebrocvpc1vdo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "701925772951-97oim9gq4gq41ebffd70f98vhil3a2tt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agencyfish.anantara"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
